@@ -1,0 +1,11 @@
+.header {
+  background-image: url("./assets/bg_Header.png"); /* Rasm manbaasi */
+  background-size: cover; /* Rasmni butun fonni qoplash uchun */
+  background-repeat: no-repeat; /* Rasmni takrorlanishidan saqlash uchun */
+  background-position: center; /* Rasmni o'rtada joylashtirish */
+  max-height: 810px;
+  position: relative; /* Ichki elementlarni joylash uchun */
+}
+.bgMap {
+  opacity: 0.5;
+}
